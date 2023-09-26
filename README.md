@@ -34,6 +34,11 @@ llevar el registro y control de las personas que salen e ingresan al local.
 * [ ] [`CSS` modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet)
 * [ ] [React Router](https://reacttraining.com/react-router/web)
 
+### SQL
+
+* [ ] [`¿Qué es SQL? 🤓`](https://www.youtube.com/watch?v=Atpj2UsF65M)
+* [ ] [`W3School SQL`](https://www.w3schools.com/sql/)
+
 ### APIs REST
 
 * [ ] Consumos de APIs REST
